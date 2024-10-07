@@ -9,6 +9,6 @@ On any local system:
 - git pull
 
 Clone the repository:
-- git clone https://github.com/yourusername/nvim-config.git nvim
+- git clone https://github.com/karpftw/nvim-config.git nvim
 
 This is a new line in my readme file.
