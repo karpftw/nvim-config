@@ -10,3 +10,5 @@ On any local system:
 
 Clone the repository:
 - git clone https://github.com/yourusername/nvim-config.git nvim
+
+This is a new line in my readme file.
