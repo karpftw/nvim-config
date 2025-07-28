@@ -78,9 +78,6 @@ return {
 			vim.fn.sign_define(hl, { text = icon, texthl = hl, numhl = "" })
 		end
 
-		require("mason").setup()
-		require("mason-lspconfig").setup()
-
 		mason_lspconfig.setup_handlers({
 			-- default handler for installed servers
 			function(server_name)
