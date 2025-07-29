@@ -44,6 +44,3 @@ opt.splitbelow = true -- split horizontal window to the bottom
 
 -- turn off swapfile
 opt.swapfile = false
-
--- added this on 7/29/2025 to disable a warning in :checkhealth
-let g:loaded_perl_provider = 0
